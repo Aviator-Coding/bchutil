@@ -7,13 +7,13 @@ package bloom_test
 import (
 	"bytes"
 	"encoding/hex"
-	"github.com/gcash/bchd/chaincfg"
+	"github.com/aviator-coding/bchd/chaincfg"
 	"testing"
 
-	"github.com/gcash/bchd/chaincfg/chainhash"
-	"github.com/gcash/bchd/wire"
-	"github.com/gcash/bchutil"
-	"github.com/gcash/bchutil/bloom"
+	"github.com/aviator-coding/bchd/chaincfg/chainhash"
+	"github.com/aviator-coding/bchd/wire"
+	"github.com/aviator-coding/bchutil"
+	"github.com/aviator-coding/bchutil/bloom"
 )
 
 func TestMerkleBlock3(t *testing.T) {

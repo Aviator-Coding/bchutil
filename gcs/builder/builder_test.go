@@ -8,14 +8,14 @@ package builder_test
 import (
 	"bytes"
 	"encoding/hex"
-	"github.com/gcash/bchd/txscript"
+	"github.com/aviator-coding/bchd/txscript"
 	"testing"
 	"time"
 
-	"github.com/gcash/bchd/chaincfg/chainhash"
-	"github.com/gcash/bchd/wire"
-	"github.com/gcash/bchutil/gcs"
-	"github.com/gcash/bchutil/gcs/builder"
+	"github.com/aviator-coding/bchd/chaincfg/chainhash"
+	"github.com/aviator-coding/bchd/wire"
+	"github.com/aviator-coding/bchutil/gcs"
+	"github.com/aviator-coding/bchutil/gcs/builder"
 )
 
 var (

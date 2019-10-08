@@ -8,8 +8,8 @@ import (
 	"bytes"
 	"io"
 
-	"github.com/gcash/bchd/chaincfg/chainhash"
-	"github.com/gcash/bchd/wire"
+	"github.com/aviator-coding/bchd/chaincfg/chainhash"
+	"github.com/aviator-coding/bchd/wire"
 )
 
 // TxIndexUnknown is the value returned for a transaction index that is unknown.

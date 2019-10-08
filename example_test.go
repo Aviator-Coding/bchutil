@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"math"
 
-	"github.com/gcash/bchutil"
+	"github.com/aviator-coding/bchutil"
 )
 
 func ExampleAmount() {

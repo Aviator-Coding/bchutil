@@ -8,10 +8,10 @@ import (
 	"bytes"
 	"errors"
 
-	"github.com/gcash/bchd/bchec"
-	"github.com/gcash/bchd/chaincfg"
-	"github.com/gcash/bchd/chaincfg/chainhash"
-	"github.com/gcash/bchutil/base58"
+	"github.com/aviator-coding/bchd/bchec"
+	"github.com/aviator-coding/bchd/chaincfg"
+	"github.com/aviator-coding/bchd/chaincfg/chainhash"
+	"github.com/aviator-coding/bchutil/base58"
 )
 
 // ErrMalformedPrivateKey describes an error where a WIF-encoded private

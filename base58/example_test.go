@@ -7,7 +7,7 @@ package base58_test
 import (
 	"fmt"
 
-	"github.com/gcash/bchutil/base58"
+	"github.com/aviator-coding/bchutil/base58"
 )
 
 // This example demonstrates how to decode modified base58 encoded data.

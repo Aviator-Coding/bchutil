@@ -1,4 +1,4 @@
-// Copyright (c) 2018 The gcash developers
+// Copyright (c) 2018 The aviator-coding developers
 // Use of this source code is governed by an ISC
 // license that can be found in the LICENSE file.
 
@@ -10,9 +10,9 @@ import (
 	"reflect"
 	"testing"
 
-	"github.com/gcash/bchd/chaincfg/chainhash"
-	"github.com/gcash/bchd/wire"
-	"github.com/gcash/bchutil/merkleblock"
+	"github.com/aviator-coding/bchd/chaincfg/chainhash"
+	"github.com/aviator-coding/bchd/wire"
+	"github.com/aviator-coding/bchutil/merkleblock"
 )
 
 // TestNewMerkleBlockFromMsg tests decoding of a partial merkle tree from

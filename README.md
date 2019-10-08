@@ -1,9 +1,9 @@
 bchutil
 =======
 
-[![Build Status](https://travis-ci.org/gcash/bchutil.svg?branch=master)](https://travis-ci.org/gcash/bchutil)
+[![Build Status](https://travis-ci.org/aviator-coding/bchutil.svg?branch=master)](https://travis-ci.org/aviator-coding/bchutil)
 [![ISC License](http://img.shields.io/badge/license-ISC-blue.svg)](http://copyfree.org)
-[![GoDoc](http://img.shields.io/badge/godoc-reference-blue.svg)](http://godoc.org/github.com/gcash/bchutil)
+[![GoDoc](http://img.shields.io/badge/godoc-reference-blue.svg)](http://godoc.org/github.com/aviator-coding/bchutil)
 
 Package bchutil provides bitcoin cash-specific convenience functions and types.
 A comprehensive suite of tests is provided to ensure proper functionality.  See
@@ -19,7 +19,7 @@ provided.
 ## Installation and Updating
 
 ```bash
-$ go get -u github.com/gcash/bchutil
+$ go get -u github.com/aviator-coding/bchutil
 ```
 
 ## License

@@ -1,5 +1,5 @@
 // Copyright (c) 2014-2016 The btcsuite developers
-// Copyright (c) 2018 The gcash developers
+// Copyright (c) 2018 The aviator-coding developers
 // Use of this source code is governed by an ISC
 // license that can be found in the LICENSE file.
 
@@ -8,14 +8,14 @@ package merkleblock_test
 import (
 	"bytes"
 	"encoding/hex"
-	"github.com/gcash/bchd/chaincfg"
+	"github.com/aviator-coding/bchd/chaincfg"
 	"testing"
 
-	"github.com/gcash/bchd/chaincfg/chainhash"
-	"github.com/gcash/bchd/wire"
-	"github.com/gcash/bchutil"
-	"github.com/gcash/bchutil/bloom"
-	"github.com/gcash/bchutil/merkleblock"
+	"github.com/aviator-coding/bchd/chaincfg/chainhash"
+	"github.com/aviator-coding/bchd/wire"
+	"github.com/aviator-coding/bchutil"
+	"github.com/aviator-coding/bchutil/bloom"
+	"github.com/aviator-coding/bchutil/merkleblock"
 )
 
 // TestMerkleBlock3 tests merkleblock encoding using bloom filter. This test

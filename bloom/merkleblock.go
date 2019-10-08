@@ -5,10 +5,10 @@
 package bloom
 
 import (
-	"github.com/gcash/bchd/blockchain"
-	"github.com/gcash/bchd/chaincfg/chainhash"
-	"github.com/gcash/bchd/wire"
-	"github.com/gcash/bchutil"
+	"github.com/aviator-coding/bchd/blockchain"
+	"github.com/aviator-coding/bchd/chaincfg/chainhash"
+	"github.com/aviator-coding/bchd/wire"
+	"github.com/aviator-coding/bchutil"
 )
 
 // merkleBlock is used to house intermediate information needed to generate a

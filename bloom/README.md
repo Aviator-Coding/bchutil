@@ -1,9 +1,9 @@
 bloom
 =====
 
-[![Build Status](https://travis-ci.org/gcash/bchutil.svg?branch=master)](https://travis-ci.org/gcash/bchutil)
+[![Build Status](https://travis-ci.org/aviator-coding/bchutil.svg?branch=master)](https://travis-ci.org/aviator-coding/bchutil)
 [![ISC License](http://img.shields.io/badge/license-ISC-blue.svg)](http://copyfree.org)
-[![GoDoc](http://img.shields.io/badge/godoc-reference-blue.svg)](http://godoc.org/github.com/gcash/bchutil/bloom)
+[![GoDoc](http://img.shields.io/badge/godoc-reference-blue.svg)](http://godoc.org/github.com/aviator-coding/bchutil/bloom)
 
 Package bloom provides an API for dealing with bitcoin-specific bloom filters.
 
@@ -15,12 +15,12 @@ report.
 ## Installation and Updating
 
 ```bash
-$ go get -u github.com/gcash/bchutil/bloom
+$ go get -u github.com/aviator-coding/bchutil/bloom
 ```
 
 ## Examples
 
-* [NewFilter Example](http://godoc.org/github.com/gcash/bchutil/bloom#example-NewFilter)  
+* [NewFilter Example](http://godoc.org/github.com/aviator-coding/bchutil/bloom#example-NewFilter)  
   Demonstrates how to create a new bloom filter, add a transaction hash to it,
   and check if the filter matches the transaction.
 

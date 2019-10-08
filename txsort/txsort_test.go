@@ -11,8 +11,8 @@ import (
 	"path/filepath"
 	"testing"
 
-	"github.com/gcash/bchd/wire"
-	"github.com/gcash/bchutil/txsort"
+	"github.com/aviator-coding/bchd/wire"
+	"github.com/aviator-coding/bchutil/txsort"
 )
 
 // TestSort ensures the transaction sorting works according to the BIP.

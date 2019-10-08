@@ -9,9 +9,9 @@ import (
 	"errors"
 	"strings"
 
-	"github.com/gcash/bchd/bchec"
-	"github.com/gcash/bchd/chaincfg"
-	"github.com/gcash/bchutil/base58"
+	"github.com/aviator-coding/bchd/bchec"
+	"github.com/aviator-coding/bchd/chaincfg"
+	"github.com/aviator-coding/bchutil/base58"
 	"golang.org/x/crypto/ripemd160"
 )
 
